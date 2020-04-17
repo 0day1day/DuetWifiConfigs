@@ -8,7 +8,7 @@
 
 # Others.
 - [Macros](https://github.com/0day1day/DuetWifiConfigs/blob/master/Others/macros.zip)	
-- [Tuning Non Lineal Extrusion by @kkapa](https://github.com/0day1day/DuetWifiConfigs/tree/master/Others/M592%20NON%20LINEAR%20EXTRUSION)
+- [Tuning Non Lineal Extrusion by @kkapa](https://github.com/0day1day/DuetWifiConfigs/tree/master/Others/Tuning%20non%20linear%20extrusion)
 - [Tuning pressure advance by @kkapa](https://github.com/0day1day/DuetWifiConfigs/tree/master/Others/Tuning%20pressure%20advance)
 
 - [SDCARD Contents](https://github.com/0day1day/DuetWifiConfigs/blob/master/Others/SD_Card_Contents.zip)
