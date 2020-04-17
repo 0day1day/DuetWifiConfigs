@@ -12,8 +12,7 @@ M555 P1                                            ; Set firmware compatibility 
 M550 P"Ender_3"                                    ; Set machine name
 M551 P"pandora00"				   ; Set password
 M552 S1                                            ; Enable network
-;M587 S"kapawireless2G" P"P@ndora00"                ; Configure access point. You can delete this line once connected
-;M587 S"iPhone Miguel" P"Pandora00"                ; Configure access point. You can delete this line once connected
+;M587 S"SSID" P"password"                ; Configure access point. You can delete this line once connected
 M586 P0 S1                                         ; Enable HTTP
 M586 P1 S0                                         ; Disable FTP
 M586 P2 S0                                         ; Disable Telnet
