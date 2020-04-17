@@ -1,0 +1,9 @@
+; Reinicia el modulo wifi
+
+; si necesitas usarlo sin pantalla pone en el config.g
+;M581 E2 S0 T3  ;   activa endstop E2 para trigger 3 RestartWifi" y pon un pulsado en el endstop de E2
+
+; y creas un fichero trigger3.g con :
+M552 S-1  ; desconecta wifi
+G4 P5000   ; wait 5000 msec (= 5 sec)
+M552 S1  ;  conecta wifi
