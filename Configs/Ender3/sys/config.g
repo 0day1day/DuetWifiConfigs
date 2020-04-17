@@ -10,7 +10,7 @@ M555 P1                                            ; Set firmware compatibility 
 
 ; Network
 M550 P"Ender_3"                                    ; Set machine name
-M551 P"pandora00"				   ; Set password
+M551 P"password"				   ; Set password
 M552 S1                                            ; Enable network
 ;M587 S"SSID" P"password"                ; Configure access point. You can delete this line once connected
 M586 P0 S1                                         ; Enable HTTP
